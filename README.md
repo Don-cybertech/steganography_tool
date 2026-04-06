@@ -49,7 +49,7 @@ A single **1920×1080** image can silently carry up to **≈ 776 KB** of hidden 
 ## 🏗️ Architecture
 
 ```
-07_steganography/
+steganography/
 ├── steganography.py    ← CLI entry point (Rich interface)
 ├── lsb_engine.py       ← Core encode/decode logic
 ├── crypto_utils.py     ← AES-256 / Fernet encryption layer
@@ -73,7 +73,7 @@ The 4-byte header stores the exact payload length — no delimiter scanning need
 ## ⚙️ Setup
 
 ```cmd
-cd 07_steganography
+cd steganography
 pip install -r requirements.txt
 ```
 
@@ -145,9 +145,9 @@ python steganography.py decode -i stego.png -o recovered.txt
 
 ## 👨‍💻 Author:
 
-Egwwu Donatus Achema
+## Egwu Donatus Achema
 
-cybersecurity Analyst | Python Developer
+Cybersecurity Analyst | Python Developer
 
 GitHub: @Don-cybertech
 
