@@ -146,7 +146,12 @@ python steganography.py decode -i stego.png -o recovered.txt
 ## 👨‍💻 Author:
 
 ## Egwu Donatus Achema
+Cybersecurity Analyst | Python Security Tools Portfolio
 
+**GitHub**: [@Don-cybertech](https://github.com/Don-cybertech) 
 
-**Don Achema** — [@Don-cybertech](https://github.com/Don-cybertech)  
-Cybersecurity Student | Python Security Tools Portfolio
+**LinkedIn**: (https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/)
+
+**Gmail**: (donatusachema@gmail.com)
+
+Part of: Cybersecurity Portfolio
